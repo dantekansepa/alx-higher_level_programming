@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 """module contains class Square"""
 
+
 class Sqaure:
     """validates the size of a square"""
     def __init__(self, size=0):
