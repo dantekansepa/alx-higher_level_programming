@@ -1,4 +1,7 @@
 #!/usr/bin/python3
+"""Module with an empty class"""
+
+
 class Sqaure:
      """has public instance area"""
     def __init__(self, size=0):
