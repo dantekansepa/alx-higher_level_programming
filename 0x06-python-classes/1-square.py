@@ -4,7 +4,8 @@
 
 class Sqaure:
     """Instantiates a private instance attribute
-    with no type/value verification"""
+    with no type/value verification
+    """
     def __init__(self, size):
         """Initializes a square.
         Arg:
