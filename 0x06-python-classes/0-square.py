@@ -1,6 +1,8 @@
 #!/usr/bin/python3
+"""Module with an empty class"""
+
+
 class Square:
-     '''An empty square class
-     
-    '''
+    """Empty square class"""
     pass
+    """Nothing happens"""
