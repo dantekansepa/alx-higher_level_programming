@@ -2,14 +2,11 @@
 """module contains class Square"""
 
 class Sqaure:
-    """validates the size of a square
-    """
+    """validates the size of a square"""
     def __init__(self, size=0):
-        """Instantiation with optional size: def __init__(self, size=0):
-           size must be an integer, otherwise raise a TypeError exception 
-           with the message size must be an integer
-           if size is less than 0, raise a ValueError 
-           exception with the message size must be >= 0
+        """validates the type of size
+        Args:
+        size: int type square size
         """
         if type(size) != int:
             raise TypeError("size must be an integer")
