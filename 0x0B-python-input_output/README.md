@@ -80,5 +80,4 @@ How to convert a JSON string to a Python data structure
 
 ---
 
-## Author
-* **Derrick Gee** - [kai-dg](https://github.com/kai-dg)
+## Author: Munashe Dante Kansepa
