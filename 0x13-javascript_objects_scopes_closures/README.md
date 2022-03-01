@@ -56,8 +56,3 @@ What you should learn from this project:
 
 ### [10. Number conversion](./10-converter.js)
 * Write a function that converts a number from base 10 to another base passed as argument:
-
----
-
-## Author
-* **Derrick Gee** - [kai-dg](https://github.com/kai-dg)
