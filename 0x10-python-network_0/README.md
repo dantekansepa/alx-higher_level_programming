@@ -48,9 +48,4 @@ What you should learn from this project:
 
 
 ### [6. Find a peak](./6-peak.py)
-* Technical interview preparation: 
-
----
-
-## Author
-* **Derrick Gee** - [kai-dg](https://github.com/kai-dg)
+* Technical interview preparation
